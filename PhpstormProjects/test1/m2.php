@@ -7,5 +7,5 @@
  */
 
 echo "Rjvvbn1";
-echo "nt";
+echo "t";
 
