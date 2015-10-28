@@ -6,6 +6,5 @@
  * Time: 18:22
  */
 
-echo "My first commit";
-echo "My first commit";
-echo "My first commit";
+echo "Test";
+
